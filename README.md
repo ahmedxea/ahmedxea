@@ -1,5 +1,5 @@
 # Hey, I'm Ahmed El Abed 👋
-🏆 **20× Hackathon Winner | Data Science & AI Student @ UDST**
+🏆 **20× Hackathon Winner | Cloud & AI Solutions Architect | Applied AI Engineer | Data Science & AI @ UDST**
 
 I'm an AI student passionate about merging entrepreneurship, data science, and artificial intelligence to create meaningful real-world impact. Currently pursuing a **BSc in Data Science & AI** at the **University of Doha for Science & Technology**, I've founded and contributed to multiple AI startups and have been recognized with **17+ national and regional innovation awards.** I'm also **Microsoft Cloud Certified**, bringing a cloud-first perspective to scalable AI and data solutions.
 
